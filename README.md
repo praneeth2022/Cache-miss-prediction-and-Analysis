@@ -8,4 +8,4 @@
 |Vishal Reddy      |       CSE          |     18114033    |
 |Praneeth          |       CSE          |     18114043    |
 
-![overview](https://github.com/sritambehera/CSN-221_Project/blob/master/Abstract.pdf)
+![overview](https://github.com/sritambehera/CSN-221_Project/blob/master/Abstract.png)
